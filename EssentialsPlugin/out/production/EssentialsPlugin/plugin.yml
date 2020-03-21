@@ -1,0 +1,9 @@
+  name: EssentialsPlugin
+  main: de.patti4832.plugins.essentials.Main
+  author: Patti4832
+  version: 1.0.0
+
+  commands:
+    money:
+      description: Sets the webhook url
+      usage: /money <[get|set|give]> <[Player]> <[Amount]>
